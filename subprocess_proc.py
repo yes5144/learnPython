@@ -4,3 +4,4 @@ import os,sys
 import subprocess
 
 print(os.system('dir'))
+print(os.system('ls'))
