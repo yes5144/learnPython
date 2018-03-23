@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# ps 可以查看进程的内存占用大小，写一个脚本计算一下所有进程所占用内存大小的和
 
 import os
 list = []

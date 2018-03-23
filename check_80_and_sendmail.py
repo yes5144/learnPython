@@ -5,6 +5,7 @@
 # 并发邮件通知你自己。
 # 脚本写好后，可以每一分钟执行一次，也可以写一个死循环的脚本，30s检测一次
 
+# https://blog.csdn.net/offbeatmine/article/details/51790654
 import os
 import time
 import sys
@@ -23,6 +24,7 @@ def send_simple_mail(warning):
         smtp.login('要发送的邮箱名','密码')
         smtp.sendmail('要发送的邮箱名',['要发送的邮箱名'], msg.as_string())
         smtp.close()
+        print('邮件发送成功')
     except Exception as e:
         print (e)
 

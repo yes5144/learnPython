@@ -1,4 +1,6 @@
-# this is python3.6
+#!/usr/bin/env python
+# coding:utf8
+#  this is python3.6
 
 import os,sys
 import subprocess

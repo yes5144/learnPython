@@ -1,0 +1,17 @@
+ Volume in drive D is Êý¾Ý
+ Volume Serial Number is 9433-68FA
+
+ Directory of D:\lastpython\py_script
+
+2018/03/23  12:36    <DIR>          .
+2018/03/23  12:36    <DIR>          ..
+2018/03/23  12:36    <DIR>          .idea
+2018/03/23  12:34               693 disk2018-03-23.log
+2018/03/23  12:36               451 disk_df.py
+2018/03/23  12:33               340 mem_total.py
+2018/03/22  16:13               410 readme.md
+2018/03/22  17:06               567 subprocess_proc.py
+2018/03/23  09:54               216 triangle_print.py
+2018/03/23  10:28               268 web_ip_count.py
+               7 File(s)          2,945 bytes
+               3 Dir(s)  52,220,006,400 bytes free
