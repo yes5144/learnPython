@@ -1,5 +1,14 @@
 # this is a markdown
 
-_ about how to use python to quant stack?
+## about how to use python to quant stack?
 
-> just 
+> just for practice python
+
+- First
+
+- Sencond
+
+- Third
+
+
+[my blog](www.erkui.tech)
