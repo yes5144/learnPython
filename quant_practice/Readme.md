@@ -11,4 +11,4 @@
 - Third
 
 
-[my blog](www.erkui.tech)
+[my blog](http://www.erkui.tech)
