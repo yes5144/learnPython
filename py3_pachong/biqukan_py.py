@@ -12,7 +12,8 @@ import re
 if __name__ == '__main__':
     target_url = "http://www.biqukan.com/1_1094/"
     head = {}
-    head['User-Agent'] = 'Mozilla/5.0 (Windows NT 6.1; W…) Gecko/20100101 Firefox/59.0'
+    # head['User-Agent'] = 'Mozilla/5.0 (Windows NT 6.1; W…) Gecko/20100101 Firefox/59.0'
+    head['User-Agent'] = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36'
     target_req = request.Request(url=target_url, headers=head)
     target_response = request.urlopen(target_req)
     target_html = target_response.read().decode('gbk','ignore')
