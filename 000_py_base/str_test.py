@@ -1,0 +1,3 @@
+str = '\xbe\xdc\xbe\xf8\xb7\xc3\xce\xca\xa1\xa3'
+b = repr(str)
+print(unicode(eval(b), "gbk"))
