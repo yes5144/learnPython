@@ -9,8 +9,8 @@ print(type(df), df)
 print("---" * 30)
 print(df[:1])
 group_df = df.groupby(["区域"]).aggregate({
-    "姓名": [len],
     "电脑价格": [sum],
+    "姓名": [len, ",".join],
 })
 print(type(group_df), '\n', group_df)
 ## group_df write to excel
