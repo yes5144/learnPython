@@ -1,0 +1,7 @@
+name,date,race,age,signs_of_mental_illness,flee
+Tim Elliot,02/01/15,A,53.0,True,Not fleeing
+Lewis Lee Lembke,02/01/15,W,47.0,False,Not fleeing
+John Paul Quintero,03/01/15,H,23.0,False,Not fleeing
+Matthew Hoffman,04/01/15,W,32.0,True,Not fleeing
+Michael Rodriguez,04/01/15,H,39.0,False,Not fleeing
+Kenneth Joe Brown,04/01/15,W,18.0,False,Not fleeing
