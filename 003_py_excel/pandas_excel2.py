@@ -36,3 +36,7 @@ group_df.to_excel("res.xlsx")
 ## Pandas.read_excel()全参数详解 https://zhuanlan.zhihu.com/p/142972462
 
 # dframe1["sku"] ="#" #添加一列数据，初始化为"#"
+
+## dataframe转换为list
+# df.values.tolist()
+# df.dropna().values.tolist()
